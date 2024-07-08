@@ -12,7 +12,8 @@
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "Tliks/ModuleCreator"
+        "Tliks/ModuleCreator",
+        "Tliks/DuplicateAsVariant"
     ],
     "packages":[]
 }
