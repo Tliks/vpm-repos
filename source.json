@@ -13,7 +13,8 @@
     "bannerUrl":"banner.png",
     "githubRepos":[
         "Tliks/ModuleCreator",
-        "Tliks/DuplicateAsVariant"
+        "Tliks/DuplicateAsVariant",
+        "Tliks/SceneMeshUtils"
     ],
     "packages":[]
 }
