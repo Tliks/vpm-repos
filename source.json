@@ -14,7 +14,8 @@
     "githubRepos":[
         "Tliks/ModuleCreator",
         "Tliks/DuplicateAsVariant",
-        "Tliks/SceneMeshUtils"
+        "Tliks/SceneMeshUtils",
+        "Tliks/TriangleSelector"
     ],
     "packages":[]
 }
