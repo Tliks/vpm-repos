@@ -15,7 +15,8 @@
         "Tliks/ModuleCreator",
         "Tliks/DuplicateAsVariant",
         "Tliks/SceneMeshUtils",
-        "Tliks/TriangleSelector"
+        "Tliks/TriangleSelector",
+        "Tliks/AutoConfigureTexture"
     ],
     "packages":[]
 }
