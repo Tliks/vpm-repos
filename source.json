@@ -16,7 +16,8 @@
         "Tliks/DuplicateAsVariant",
         "Tliks/SceneMeshUtils",
         "Tliks/TriangleSelector",
-        "Tliks/AutoConfigureTexture"
+        "Tliks/AutoConfigureTexture",
+        "Tliks/GitAutomation"
     ],
     "packages":[]
 }
