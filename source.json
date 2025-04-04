@@ -17,7 +17,8 @@
         "Tliks/SceneMeshUtils",
         "Tliks/TriangleSelector",
         "Tliks/AutoConfigureTexture",
-        "Tliks/GitAutomation"
+        "Tliks/GitAutomation",
+        "Tliks/OverallNDMFMeshSimplifier"
     ],
     "packages":[]
 }

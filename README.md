@@ -7,3 +7,4 @@ https://tliks.github.io/vpm-repos/
 - [SceneMeshUtils](https://github.com/Tliks/SceneMeshUtils)
 - [Triangle Selector](https://github.com/Tliks/TriangleSelector)
 - [Auto Configure Texture](https://github.com/Tliks/AutoConfigureTexture)
+- [OverallNDMFMeshSimplifier](https://github.com/Tliks/OverallNDMFMeshSimplifier)
