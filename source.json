@@ -18,7 +18,8 @@
         "Tliks/TriangleSelector",
         "Tliks/AutoConfigureTexture",
         "Tliks/GitAutomation",
-        "Tliks/OverallNDMFMeshSimplifier"
+        "Tliks/OverallNDMFMeshSimplifier",
+        "Tliks/AO-Material-Editor"
     ],
     "packages":[]
 }
