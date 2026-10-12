@@ -18,7 +18,8 @@
         "Tliks/AutoConfigureTexture",
         "Tliks/GitAutomation",
         "Tliks/OverallNDMFMeshSimplifier",
-        "Tliks/AO-Material-Editor"
+        "Tliks/AO-Material-Editor",
+        "Tliks/aoyon.gameobject-menu-managaer"
     ],
     "packages":[]
 }
